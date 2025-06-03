@@ -15,6 +15,8 @@ export default function App() {
     };
   }, []);
 
+  // Main application component
+
   return (
     <div className="bg-[#0d1117] min-h-screen text-white font-sans overflow-x-hidden w-full relative">
       <Header />
